@@ -6,7 +6,7 @@
 !**/pom.xml
 !.fatweleminus
 !.gitignore
-!library-sp21
+!CS61B/src/library-sp21
 !foods.csv
 *.class
 *.log
@@ -193,7 +193,7 @@ $RECYCLE.BIN/
 *.iml
 
 ## Directory-based project format:
-.idea/
+CS61B/src/.idea/
 # if you remove the above rule, at least ignore the following:
 
 # User-specific stuff:
