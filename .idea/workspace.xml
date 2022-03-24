@@ -4,195 +4,138 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d7435d8-c90e-4409-b9f0-ed49444d00f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CS61B/src/lab1/GetEnvironmentVariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS61B/src/lab1/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS61B/src/lab2/Arithmetic/Arithmetic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS61B/src/lab2/Arithmetic/ArithmeticTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS61B/src/lab2/IntList/AddConstantTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS61B/src/lab2setup/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS61B/src/lab3/randomizedtest/BuggyAList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS61B/src/lab3/timingtest/StopwatchDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS61B/src/lab4/flik/HorribleSteve.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS61B/src/lab5/magic_word.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS61B/src/lab6/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS61B/src/lab6/capers/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS61B/src/lab6/capers/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS61B/src/lab6/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS61B/src/lab7/bstmap/Map61B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS61B/src/lab7/bstmap/TestBSTMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS61B/src/lab7/speedTestResults.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS61B/src/lab8/hashmap/MyHashMapHSBuckets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS61B/src/proj0/game2048/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS61B/src/proj0/game2048/TestAtLeastOneMoveExists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS61B/src/proj0/game2048/TestMaxTileExists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS61B/src/proj0/game2048/TestModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS61B/src/proj0/game2048/TestUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS61B/src/proj0/game2048/Tile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS61B/src/proj1/deque/LinkedListDequeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS61B/src/proj1/gh2/TestGuitarString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS61B/src/proj1ec/student/Deque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS61B/src/proj1ec/tester/StudentArrayDequeLauncher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS61B/src/proj2/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS61B/src/proj2/gitlet/Repository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS61B/src/proj2/testing/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS61B/src/proj3/byow/Core/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS61B/src/proj3/byow/InputDemo/InputSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CS61B/src/proj3/byow/Networking/BYOWServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/CheckLabConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/Collatz.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/GetEnvironmentVariables.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/HelloNumbers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/Arithmetic/Arithmetic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/Arithmetic/ArithmeticTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/DebugExercise/DebugExercise1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/DebugExercise/DebugExercise2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/IntList/AddConstantTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/IntList/IntList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/IntList/IntListExercises.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/IntList/Primes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/IntList/SetToZeroIfMaxFELTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/IntList/SquarePrimesTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2setup/Dog/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2setup/Dog/DogTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2setup/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/randomizedtest/AListNoResizing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/randomizedtest/BuggyAList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/randomizedtest/TestBuggyAList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/timingtest/AList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/timingtest/SLList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/timingtest/StopwatchDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/timingtest/TimeAList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab3/timingtest/TimeSLList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/flik/Flik.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/flik/HorribleSteve.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab5/magic_word.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab5/self_reflection.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab6/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab6/capers/CapersRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab6/capers/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab6/capers/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab6/capers/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab6/capers/Utils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab6/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab6/testing/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab6/testing/our/test01-basic-story.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab6/testing/our/test02-two-part-story.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab6/testing/our/test03-basic-dog.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab6/testing/our/test04-dog-birthday.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab6/testing/our/test05-two-dogs.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab6/testing/our/test06-two-birthdays.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab6/testing/our/test07-one-dog-two-birthdays.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab6/testing/runner.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab6/testing/tester.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab7/bstmap/InsertInOrderSpeedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab7/bstmap/InsertRandomSpeedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab7/bstmap/Map61B.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab7/bstmap/StringUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab7/bstmap/TestBSTMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab7/bstmap/TestBSTMapExtra.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab7/bstmap/ULLMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab7/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab7/speedTestResults.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab8/hashmap/Map61B.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab8/hashmap/MyHashMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab8/hashmap/MyHashMapALBuckets.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab8/hashmap/MyHashMapHSBuckets.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab8/hashmap/MyHashMapLLBuckets.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab8/hashmap/MyHashMapPQBuckets.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab8/hashmap/MyHashMapTSBuckets.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab8/hashmap/TestMyHashMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab8/hashmap/TestMyHashMapBuckets.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab8/hashmap/TestMyHashMapExtra.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab8/hashmap/ULLMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab8/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab8/speed/BucketsSpeedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab8/speed/InsertInOrderSpeedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab8/speed/InsertRandomSpeedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab8/speed/StringUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab8/speedTestResults.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library-sp21" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj0/game2048/Board.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj0/game2048/BoardLogger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj0/game2048/BoardWidget.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj0/game2048/GUI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj0/game2048/GUISource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj0/game2048/Game.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj0/game2048/InputSource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj0/game2048/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj0/game2048/Model.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj0/game2048/Side.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj0/game2048/TestAtLeastOneMoveExists.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj0/game2048/TestEmptySpace.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj0/game2048/TestMaxTileExists.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj0/game2048/TestModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj0/game2048/TestUpOnly.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj0/game2048/TestUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj0/game2048/Tile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj0/javalib/hamcrest-core-1.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj0/javalib/junit-4.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj0/javalib/ucb.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj1/deque/LinkedListDequeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj1/gh2/GuitarHeroLite.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj1/gh2/GuitarPlayer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj1/gh2/GuitarString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj1/gh2/TTFAF.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj1/gh2/TestGuitarString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj1/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj1ec/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj1ec/student/Deque.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj1ec/student/StudentArrayDeque.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj1ec/tester/ArrayDequeSolution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj1ec/tester/AssertEqualsStringDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj1ec/tester/StudentArrayDequeLauncher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj2/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj2/gitlet-design.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj2/gitlet/Commit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj2/gitlet/DumpObj.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj2/gitlet/Dumpable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj2/gitlet/GitletException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj2/gitlet/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj2/gitlet/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj2/gitlet/Repository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj2/gitlet/Utils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj2/gitlet/sentinel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj2/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj2/testing/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj2/testing/runner.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj2/testing/samples/definitions.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj2/testing/samples/test01-init.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj2/testing/samples/test02-basic-checkout.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj2/testing/samples/test03-basic-log.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj2/testing/samples/test04-prev-checkout.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj2/testing/src/notwug.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj2/testing/src/wug.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj2/testing/staff-runner.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj2/testing/student_tests/definitions.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj2/testing/tester.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj3/byow/Core/Engine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj3/byow/Core/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj3/byow/Core/RandomUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj3/byow/InputDemo/DemoInputSource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj3/byow/InputDemo/InputSource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj3/byow/InputDemo/KeyboardInputSource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj3/byow/InputDemo/RandomInputSource.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj3/byow/InputDemo/StringInputDevice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj3/byow/Networking/BYOWClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj3/byow/Networking/BYOWServer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj3/byow/TileEngine/TERenderer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj3/byow/TileEngine/TETile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj3/byow/TileEngine/Tileset.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj3/byow/lab12/BoringWorldDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj3/byow/lab12/HexWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj3/byow/lab12/RandomWorldDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj3/byow/lab12/project3prep.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj3/byow/lab13/MemoryGame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/proj3/pom.xml" beforeDir="false" />
+    <list default="true" id="4d7435d8-c90e-4409-b9f0-ed49444d00f1" name="Changes" comment="a">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab1/CheckLabConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab1/CheckLabConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab1/Collatz.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab1/Collatz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab1/GetEnvironmentVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab1/GetEnvironmentVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab1/HelloNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab1/HelloNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab1/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab1/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab2/Arithmetic/Arithmetic.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab2/Arithmetic/Arithmetic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab2/Arithmetic/ArithmeticTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab2/Arithmetic/ArithmeticTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab2/DebugExercise/DebugExercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab2/DebugExercise/DebugExercise1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab2/DebugExercise/DebugExercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab2/DebugExercise/DebugExercise2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab2/IntList/AddConstantTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab2/IntList/AddConstantTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab2/IntList/IntList.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab2/IntList/IntList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab2/IntList/IntListExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab2/IntList/IntListExercises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab2/IntList/Primes.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab2/IntList/Primes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab2/IntList/SetToZeroIfMaxFELTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab2/IntList/SetToZeroIfMaxFELTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab2/IntList/SquarePrimesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab2/IntList/SquarePrimesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab2setup/Dog/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab2setup/Dog/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab2setup/Dog/DogTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab2setup/Dog/DogTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab2setup/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab2setup/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab3/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab3/randomizedtest/AListNoResizing.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab3/randomizedtest/AListNoResizing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab3/randomizedtest/BuggyAList.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab3/randomizedtest/BuggyAList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab3/randomizedtest/TestBuggyAList.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab3/randomizedtest/TestBuggyAList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab3/timingtest/AList.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab3/timingtest/AList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab3/timingtest/SLList.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab3/timingtest/SLList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab3/timingtest/StopwatchDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab3/timingtest/StopwatchDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab3/timingtest/TimeAList.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab3/timingtest/TimeAList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab3/timingtest/TimeSLList.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab3/timingtest/TimeSLList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab4/flik/Flik.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab4/flik/Flik.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab4/flik/HorribleSteve.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab4/flik/HorribleSteve.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab4/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab4/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab5/magic_word.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab5/magic_word.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab5/self_reflection.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab5/self_reflection.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab6/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab6/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab6/capers/CapersRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab6/capers/CapersRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab6/capers/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab6/capers/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab6/capers/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab6/capers/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab6/capers/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab6/capers/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab6/capers/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab6/capers/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab6/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab6/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab6/testing/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab6/testing/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab7/bstmap/InsertInOrderSpeedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab7/bstmap/InsertInOrderSpeedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab7/bstmap/InsertRandomSpeedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab7/bstmap/InsertRandomSpeedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab7/bstmap/Map61B.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab7/bstmap/Map61B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab7/bstmap/StringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab7/bstmap/StringUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab7/bstmap/TestBSTMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab7/bstmap/TestBSTMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab7/bstmap/TestBSTMapExtra.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab7/bstmap/TestBSTMapExtra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab7/bstmap/ULLMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab7/bstmap/ULLMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab7/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab7/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab7/speedTestResults.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab7/speedTestResults.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab8/hashmap/Map61B.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab8/hashmap/Map61B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab8/hashmap/MyHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab8/hashmap/MyHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab8/hashmap/MyHashMapALBuckets.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab8/hashmap/MyHashMapALBuckets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab8/hashmap/MyHashMapHSBuckets.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab8/hashmap/MyHashMapHSBuckets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab8/hashmap/MyHashMapLLBuckets.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab8/hashmap/MyHashMapLLBuckets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab8/hashmap/MyHashMapPQBuckets.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab8/hashmap/MyHashMapPQBuckets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab8/hashmap/MyHashMapTSBuckets.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab8/hashmap/MyHashMapTSBuckets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab8/hashmap/TestMyHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab8/hashmap/TestMyHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab8/hashmap/TestMyHashMapBuckets.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab8/hashmap/TestMyHashMapBuckets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab8/hashmap/TestMyHashMapExtra.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab8/hashmap/TestMyHashMapExtra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab8/hashmap/ULLMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab8/hashmap/ULLMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab8/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab8/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab8/speed/BucketsSpeedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab8/speed/BucketsSpeedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab8/speed/InsertInOrderSpeedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab8/speed/InsertInOrderSpeedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab8/speed/InsertRandomSpeedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab8/speed/InsertRandomSpeedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab8/speed/StringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab8/speed/StringUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/lab8/speedTestResults.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/lab8/speedTestResults.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj0/game2048/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj0/game2048/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj0/game2048/BoardLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj0/game2048/BoardLogger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj0/game2048/BoardWidget.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj0/game2048/BoardWidget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj0/game2048/GUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj0/game2048/GUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj0/game2048/GUISource.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj0/game2048/GUISource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj0/game2048/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj0/game2048/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj0/game2048/InputSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj0/game2048/InputSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj0/game2048/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj0/game2048/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj0/game2048/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj0/game2048/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj0/game2048/Side.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj0/game2048/Side.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj0/game2048/TestAtLeastOneMoveExists.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj0/game2048/TestAtLeastOneMoveExists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj0/game2048/TestEmptySpace.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj0/game2048/TestEmptySpace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj0/game2048/TestMaxTileExists.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj0/game2048/TestMaxTileExists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj0/game2048/TestModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj0/game2048/TestModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj0/game2048/TestUpOnly.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj0/game2048/TestUpOnly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj0/game2048/TestUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj0/game2048/TestUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj0/game2048/Tile.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj0/game2048/Tile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj1/deque/LinkedListDequeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj1/deque/LinkedListDequeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj1/gh2/GuitarHeroLite.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj1/gh2/GuitarHeroLite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj1/gh2/GuitarPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj1/gh2/GuitarPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj1/gh2/GuitarString.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj1/gh2/GuitarString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj1/gh2/TTFAF.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj1/gh2/TTFAF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj1/gh2/TestGuitarString.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj1/gh2/TestGuitarString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj1ec/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj1ec/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj1ec/student/Deque.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj1ec/student/Deque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj1ec/student/StudentArrayDeque.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj1ec/student/StudentArrayDeque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj1ec/tester/ArrayDequeSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj1ec/tester/ArrayDequeSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj1ec/tester/AssertEqualsStringDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj1ec/tester/AssertEqualsStringDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj1ec/tester/StudentArrayDequeLauncher.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj1ec/tester/StudentArrayDequeLauncher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj2/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj2/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj2/gitlet/Commit.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj2/gitlet/Commit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj2/gitlet/DumpObj.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj2/gitlet/DumpObj.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj2/gitlet/Dumpable.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj2/gitlet/Dumpable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj2/gitlet/GitletException.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj2/gitlet/GitletException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj2/gitlet/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj2/gitlet/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj2/gitlet/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj2/gitlet/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj2/gitlet/Repository.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj2/gitlet/Repository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj2/gitlet/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj2/gitlet/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj2/testing/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj2/testing/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj2/testing/src/notwug.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj2/testing/src/notwug.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj2/testing/src/wug.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj2/testing/src/wug.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj3/byow/Core/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj3/byow/Core/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj3/byow/Core/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj3/byow/Core/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj3/byow/Core/RandomUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj3/byow/Core/RandomUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj3/byow/InputDemo/DemoInputSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj3/byow/InputDemo/DemoInputSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj3/byow/InputDemo/InputSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj3/byow/InputDemo/InputSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj3/byow/InputDemo/KeyboardInputSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj3/byow/InputDemo/KeyboardInputSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj3/byow/InputDemo/RandomInputSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj3/byow/InputDemo/RandomInputSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj3/byow/InputDemo/StringInputDevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj3/byow/InputDemo/StringInputDevice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj3/byow/Networking/BYOWClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj3/byow/Networking/BYOWClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj3/byow/Networking/BYOWServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj3/byow/Networking/BYOWServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj3/byow/TileEngine/TERenderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj3/byow/TileEngine/TERenderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj3/byow/TileEngine/TETile.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj3/byow/TileEngine/TETile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj3/byow/TileEngine/Tileset.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj3/byow/TileEngine/Tileset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj3/byow/lab12/BoringWorldDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj3/byow/lab12/BoringWorldDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj3/byow/lab12/HexWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj3/byow/lab12/HexWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj3/byow/lab12/RandomWorldDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj3/byow/lab12/RandomWorldDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj3/byow/lab13/MemoryGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj3/byow/lab13/MemoryGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS61B/src/proj3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CS61B/src/src/proj3/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,21 +155,42 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CS-61B\CS61B\src\src" />
       <recent name="D:\CS-61B\CS61B\src" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Collatz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab1.Collatz" />
+      <module name="CS-61B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Collatz" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -238,7 +202,16 @@
       <updated>1648155934991</updated>
       <workItem from="1648155936271" duration="1522000" />
       <workItem from="1648157669033" duration="176000" />
+      <workItem from="1648159286499" duration="372000" />
     </task>
+    <task id="LOCAL-00001" summary="a">
+      <created>1648159332556</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648159332556</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,5 +228,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="a" />
+    <option name="LAST_COMMIT_MESSAGE" value="a" />
   </component>
 </project>
