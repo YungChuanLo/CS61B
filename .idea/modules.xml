@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CS61B/src/library-sp21/javalib/61BMasterPom.iml" filepath="$PROJECT_DIR$/CS61B/src/library-sp21/javalib/61BMasterPom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS61B/src/.idea/CS-61B.iml" filepath="$PROJECT_DIR$/CS61B/src/.idea/CS-61B.iml" />
+    </modules>
+  </component>
+</project>

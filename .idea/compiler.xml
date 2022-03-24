@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="61BMasterPom" target="1.5" />
+      <module name="lab2" target="1.9" />
+      <module name="lab2setup" target="1.9" />
+      <module name="lab3" target="1.14" />
+      <module name="lab4" target="1.14" />
+      <module name="lab6" target="1.14" />
+      <module name="lab7" target="1.14" />
+      <module name="lab8" target="1.14" />
+      <module name="proj1" target="1.14" />
+      <module name="proj1ec" target="1.14" />
+      <module name="proj2" target="1.14" />
+      <module name="proj3" target="1.14" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="lab2" options="-J-XX:+ShowCodeDetailsInExceptionMessages" />
+      <module name="lab2setup" options="-J-XX:+ShowCodeDetailsInExceptionMessages" />
+      <module name="lab3" options="-J-XX:+ShowCodeDetailsInExceptionMessages" />
+      <module name="lab4" options="-J-XX:+ShowCodeDetailsInExceptionMessages" />
+      <module name="lab6" options="-J-XX:+ShowCodeDetailsInExceptionMessages" />
+      <module name="lab7" options="-J-XX:+ShowCodeDetailsInExceptionMessages" />
+      <module name="lab8" options="-J-XX:+ShowCodeDetailsInExceptionMessages" />
+      <module name="proj1" options="-J-XX:+ShowCodeDetailsInExceptionMessages" />
+      <module name="proj1ec" options="-J-XX:+ShowCodeDetailsInExceptionMessages" />
+      <module name="proj2" options="-J-XX:+ShowCodeDetailsInExceptionMessages" />
+      <module name="proj3" options="-J-XX:+ShowCodeDetailsInExceptionMessages" />
+    </option>
+  </component>
+</project>
